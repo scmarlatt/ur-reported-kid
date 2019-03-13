@@ -1,0 +1,10 @@
+{
+  "name": "ur-reported-kid",
+  "version": "1.0.0",
+  "description": "For reporting poor behavior",
+  "main": "ur-reported.js",
+  "author": "Scott Marlatt",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
